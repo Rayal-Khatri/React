@@ -6,7 +6,7 @@ import {Footer} from "./MyComponents/Footer";
 function App() {
   return (
     <div className="Myclasses">
-      <Header/>
+      <Header title="Hello world"/>
       <TodoItems/>
       <Footer/>
     </div>
