@@ -1,7 +1,5 @@
 import React from 'react'
-import {TodoItem} from "./MyComponents/TodoItem";
-
-
+import {TodoItem} from "../MyComponents/TodoItem";
 export const Todos = (props) => {
   return (
 
