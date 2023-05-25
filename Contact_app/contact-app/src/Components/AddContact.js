@@ -21,7 +21,7 @@ class AddContact extends React.Component {
                 <h2>Add Contact</h2>
                 <form onSubmit={this.add}>
                     <div className="form-group">
-                        <label>Name</label>
+                        <label>Name is </label>
                         <input 
                         type="text" 
                         className="form-control" 
