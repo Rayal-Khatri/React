@@ -14,7 +14,7 @@ const ContactCard = (props) => {
                             </div>
                             <i style={{ color: "red" }} className="bi bi-trash hover cursor-pointer "></i>
                         </div>
-                        <footer className="blockquote-footer">{Ph_No}</footer>
+                        <footer className="blockquote-footer">-{Ph_No}</footer>
                     </blockquote>
                 </div>
             </div>
